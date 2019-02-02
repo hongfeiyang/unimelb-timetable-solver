@@ -3,7 +3,9 @@ A tool to arrange timetable for Unimelb students
 
 You need to install python 3.6 and above to run this program
 
-Upon successful python installation, run "pip3 install pandas beautifulsoup4 lxml" to install the required packages.
+Upon successful python installation, run
+"pip3 install pandas beautifulsoup4 lxml"
+to install the required packages.
 
 You should specify all parameters in properties.txt file.
 
@@ -14,4 +16,7 @@ Enter year after keyword "Year" in line #6, year >= 2019.
 Enter the 3-digit semester code after keyword "Semester" in line #7, e.g. "SM1", "SM2", "SUM", "JUL" etc.
 
 Only alter the fields you are required to change, DO NOT remove any comma in the properties.text file, DO NOT insert any unnecessary space to any field.
+
+After you configured your properties.txt file, cd to the program's directory then run the program with
+"python3 timetable_solver.py"
 
