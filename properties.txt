@@ -1,0 +1,7 @@
+Monday,Tuesday,Wednesday,Thursday,Friday
+Start Time,08:00,08:00,08:00,08:00,08:00
+End Time,23:00,23:00,23:00,23:00,23:00
+
+Subjects,COMP10001,COMP10002,ECON10004
+Year,2019
+Semester,SM1
